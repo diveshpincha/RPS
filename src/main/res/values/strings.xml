@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="rock">rock</string>
+    <string name="paper">paper</string>
+    <string name="scissor">scissor</string>
+    <string name="dummyText">...</string>
+    <string name="outlawmove">outlawMove</string>
+    <string name="playermove">playerMove</string>
+</resources>
